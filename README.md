@@ -1,5 +1,5 @@
 # tictaetoe
 
-[+] Made my first ever # Web Game #
+[+] Made my first ever <b> Web Game </b>
 
 
