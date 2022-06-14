@@ -1,8 +1,7 @@
-# tictaetoe
-
-[+] Made my first ever <b> Web Game </b>
+<h1 align='center'><font color='red'>Tic-Tae-Toe</font></h1>
 <br>
+<li>Learning <i>Javascript</p></li>
 <br>
-[+] Learning <em> Javascript </em>
+&copy;2022
 
 
