@@ -5,7 +5,7 @@
 
 > The game doesn't involve any algorithms and only includes if-else logics.(Not Efficient)
 
-<a href='https://tic-tae-toe-game1.herokuapp.com/' target='_blank'>Click here to Play on Heroku </a>
+<a href='https://tic-tae-toe-game1.herokuapp.com/' target="_blank" >Click here to Play on Heroku </a>
 
 <br>
 &copy;2022
